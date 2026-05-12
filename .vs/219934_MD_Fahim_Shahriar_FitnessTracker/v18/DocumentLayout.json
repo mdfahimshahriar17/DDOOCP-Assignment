@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|d:\\219934_md_fahim_shahriar_fitnesstracker_ddoocp\\frmmonitoring_progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmmonitoring_progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmmonitoring_progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmmonitoring_progress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmmonitoring_progress.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmmonitoring_progress.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\resources\\homeimage.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:resources\\homeimage.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmusergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D5CC6F3-2E7B-42A1-B25E-652D0D6974F1}|219934_MD_Fahim_Shahriar_FitnessTracker.csproj|solutionrelative:frmusergoals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMonitoring_Progress.Designer.cs",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmMonitoring_Progress.Designer.cs",
+              "RelativeDocumentMoniker": "frmMonitoring_Progress.Designer.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmMonitoring_Progress.Designer.cs",
+              "RelativeToolTip": "frmMonitoring_Progress.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAuwJAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:35:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMonitoring_Progress.cs",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmMonitoring_Progress.cs",
+              "RelativeDocumentMoniker": "frmMonitoring_Progress.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmMonitoring_Progress.cs",
+              "RelativeToolTip": "frmMonitoring_Progress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:34:19.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeImage.png - PNG [1672x941, 24 bit, PNG]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\Resources\\HomeImage.png",
+              "RelativeDocumentMoniker": "Resources\\HomeImage.png",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\Resources\\HomeImage.png - PNG [1672x941, 24 bit, PNG]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\Resources\\HomeImage.png - PNG [1672x941, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-12T11:28:22.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmActivities.cs [Design]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmActivities.cs",
+              "RelativeDocumentMoniker": "frmActivities.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmActivities.cs [Design]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmActivities.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:12:27.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "frmDashboard.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:12:25.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmHome.cs [Design]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmHome.cs",
+              "RelativeDocumentMoniker": "frmHome.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmHome.cs [Design]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:12:23.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:12:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMonitoring_Progress.cs [Design]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmMonitoring_Progress.cs",
+              "RelativeDocumentMoniker": "frmMonitoring_Progress.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmMonitoring_Progress.cs [Design]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmMonitoring_Progress.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:12:20.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUserGoals.cs [Design]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmUserGoals.cs",
+              "RelativeDocumentMoniker": "frmUserGoals.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmUserGoals.cs [Design]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmUserGoals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:12:17.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmRegister.cs",
+              "RelativeDocumentMoniker": "frmRegister.cs",
+              "ToolTip": "D:\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmRegister.cs [Design]",
+              "RelativeToolTip": "..\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP_Task1_PROFESSIONAL_UI_CODE_FIXED\\219934_MD_Fahim_Shahriar_FitnessTracker_DDOOCP\\frmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T11:12:14.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

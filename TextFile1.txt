@@ -1,0 +1,9 @@
+Final Task 1 cleanup notes:
+- The registration screen uses username, password and confirm password only.
+- Email has been removed from the visible registration workflow because the brief asks only for username and password.
+- The Home screen uses only the student's approved Fitness Tracker image.
+- Unused/friend assignment images have been removed from project resources.
+- Old sample/test history is cleared once on first startup using tblAppSettings, then new user data is kept normally.
+- Goals are stored as one current calorie goal per logged-in user.
+- Activities: Walking, Swimming, Running, Cycling, Jump Rope, Yoga.
+- Each activity uses three predefined metrics and calories are calculated automatically.

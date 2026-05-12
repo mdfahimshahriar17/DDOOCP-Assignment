@@ -1,0 +1,2 @@
+-- No sample history is included in the final submission.
+-- Register users and add goals/activities through the GUI when testing.
